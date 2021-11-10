@@ -6,4 +6,8 @@
     }
   }
   
+  "routes": {
+    "/login/": "login/index.html"
+  }
+  
 }
