@@ -6,8 +6,11 @@
     }
   }
   
+  {
   "routes": {
-    "/login/": "login/index.html"
+    "/*.html": "index.html",
+    "/route/**": "bar/baz.html"
   }
+}
   
 }
