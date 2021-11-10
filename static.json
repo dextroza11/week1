@@ -5,11 +5,10 @@
       "Access-Control-Allow-Origin" : "*"
     }
   }
-}
-
-{
+  
   "routes": {
     "/*.html": "index.html",
     "/route/**": "bar/baz.html"
   }
 }
+
