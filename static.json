@@ -5,7 +5,11 @@
       "Access-Control-Allow-Origin" : "*"
     }
   }
-  
- 
-  
+}
+
+{
+  "routes": {
+    
+    "/login/": "login/index.html"
+  }
 }
